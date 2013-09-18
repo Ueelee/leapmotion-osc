@@ -35,7 +35,7 @@ leapmotion-osc
 
 ## Version History
 
-0.0.0 - Gesture support
+0.1.0 - Gesture support
 
 ### To-Do
 
