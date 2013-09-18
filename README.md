@@ -31,3 +31,14 @@ leapmotion-osc
 *	/leap/gesture/circleleft
 
 *	/leap/gesture/circleright
+
+
+## Version History
+
+0.0.0 - Gesture support
+
+### To-Do
+
+*	GUI-Selectable port/address
+
+*	vector tracking
